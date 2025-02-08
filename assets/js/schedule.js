@@ -2,30 +2,56 @@ const itinerary = [
     {
         day: "Ngày 1",
         schedule: [
-            { time: "7:00 AM", activity: "Đến Hà Giang, nghỉ ngơi và ăn sáng" },
             {
-                time: "9:00 AM",
-                activity:
-                    "Xuất phát từ Hà Giang, đi Phó Bảng, thăm các điểm như Làng văn hóa, chợ Phó Bảng",
+                time: "7:00 AM",
+                activity: "Đến Hà Giang, nghỉ ngơi và ăn sáng",
             },
-            { time: "12:00 PM", activity: "Ăn trưa tại Phó Bảng" },
+            {
+                time: "7:30 AM",
+                activity:
+                    "Xuất phát từ Hà Giang, đi Phó Bảng, thăm các điểm như Làng văn hóa, chợ Phó Bảng (110km)",
+            },
+            {
+                time: "10:30 AM",
+                activity: "Dốc Thẩm Mã (110km)",
+            },
+            {
+                time: "10:50 AM",
+                activity: "Thăm quan thị trấn phó bảng (10km)",
+            },
+            {
+                time: "11:30 PM",
+                activity:
+                    "Làng văn hóa du lịch Lũng Cẩm, phim trường chuyện của PAO (4km)",
+            },
+            {
+                time: "12:30 PM",
+                activity: "Nhà hàng khánh Linh (800m), ăn trưa",
+            },
             {
                 time: "2:00 PM",
-                activity: "Tiếp tục di chuyển từ Phó Bảng sang Đồng Văn",
+                activity: "Di chuyển về Homestay Maison (21km)",
             },
             {
                 time: "3:30 PM",
-                activity:
-                    "Thăm Cột Cờ Lũng Cú, chụp ảnh tại cột cờ cực Bắc của Việt Nam",
+                activity: "Điểm ngắm vườn hoa tam giác mạch (15km)",
             },
             {
-                time: "5:00 PM",
-                activity: "Tới Đồng Văn, nhận phòng khách sạn hoặc homestay",
+                time: "4:00 PM",
+                activity: "Lô lô chải (5km)",
             },
             {
-                time: "7:00 PM",
+                time: "6:00 PM",
+                activity: "Di chuyển về Homestay Maison (20km)",
+            },
+            {
+                time: "7:30 PM",
                 activity:
-                    "Ăn tối tại Đồng Văn, thưởng thức đặc sản như cháo ấu tẩu, lẩu dê",
+                    "Ăn tối tại Đồng Văn, thưởng thức đặc sản như cháo ấu tẩu, lẩu dê (3km)",
+            },
+            {
+                time: "10:00 PM",
+                activity: "Di chuyển về Homestay Maison (3km)",
             },
         ],
     },
