@@ -58,21 +58,30 @@ const itinerary = [
     {
         day: "Ngày 2",
         schedule: [
-            { time: "7:00 AM", activity: "Dậy sớm, ăn sáng tại Đồng Văn" },
-            { time: "8:00 AM", activity: "Xuất phát từ Đồng Văn, đi Mèo Vạc" },
+            { time: "8:00 AM", activity: "Dậy sớm, ăn sáng tại Đồng Văn" },
+            { time: "8:20 AM", activity: "Đỉnh đèo Mã Pí Lèng (10km)" },
             {
-                time: "10:00 AM",
-                activity: "Dừng chân tại đèo Mã Pí Lèng, ngắm cảnh đẹp hùng vĩ",
-            },
-            { time: "12:00 PM", activity: "Ăn trưa tại Mèo Vạc" },
-            {
-                time: "2:00 PM",
+                time: "11:00 AM",
                 activity:
-                    "Thăm các bản làng dân tộc, ghé thăm thửa ruộng bậc thang",
+                    "Đổ đèo mã pì lèng, Sông nho Quế, hẻm Tu Sản (12.2km)",
+            },
+            { time: "11:40 PM", activity: "Ăn trưa tại Mèo Vạc (12.4km)" },
+            {
+                time: "1:30 PM",
+                activity: "Cán lủng (13km)",
             },
             {
-                time: "4:00 PM",
-                activity: "Di chuyển về Yên Minh, nghỉ đêm tại Yên Minh",
+                time: "2:30 PM",
+                activity: "quay lại mèo vạc, đi thăm huyện (13km)",
+            },
+            {
+                time: "4:40 PM",
+                activity: "Nghỉ chân 20p tại Nhà Hàng Giang Điệp 1976 (58.2km)",
+            },
+            {
+                time: "5:30 PM",
+                activity:
+                    "Di chuyển về Homestay, nghỉ đêm tại Yên Minh (14.4km), ăn tối, đi chơi xung quanh tùy thời gian",
             },
         ],
     },
